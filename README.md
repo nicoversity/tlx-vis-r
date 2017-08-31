@@ -17,7 +17,7 @@ This function has been built using the following specifications:
 
 ## Example visualization
 
-![TLX Example Plot](https://github.com/nicoversity/tlx-vis-r/blob/master/42%3B%20virtual%20reality.pdf)
+![TLX Example Plot](42; virtual reality.png)
 
 
 ## Usage
